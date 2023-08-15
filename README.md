@@ -1,4 +1,5 @@
-# CATWD
+# Pokedex
 GSC 2023 Web Dev Pokadex
 
-This is CATWD, we're going to do Pokedex today
+## Teams
+Our teams name is CATWD from HEHS Malaysia
